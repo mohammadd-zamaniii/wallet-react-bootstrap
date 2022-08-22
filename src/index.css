@@ -1,13 +1,51 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-image: url('./assets/image/photo-1639322537228-f710d846310a.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Mouse Memoirs', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.dark-blue{
+  color: #243065;
+}
+
+.bg-aqua{
+  background-color: #00fcdc;
+}
+
+.login-height{
+  height: 500px;
+}
+
+.lr-rounded{
+  border-radius: 20px;
+}
+
+.lr-width{
+  width: 400px;
+}
+
+.lnr-width{
+  width: 300px;
+}
+
+.border-dark-blue{
+  border: 1px solid #243065;
+}
+
+.lnr-width::placeholder{
+  color: black;
+}
+
+.send-btn{
+  background-color: #6842ee;
+}
+
+.input-height{
+  height: 50px;
+}
+
+.register-height{
+  height: 650px;
 }

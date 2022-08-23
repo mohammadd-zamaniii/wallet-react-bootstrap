@@ -5,7 +5,7 @@ function register() {
     <div className=' vh-100 d-flex justify-content-center align-items-center'>
     
       <div className=' vh-100 d-flex justify-content-center align-items-center'>
-        <div className='bg-aqua dark-blue register-height lr-width d-flex justify-content-center align-items-center flex-column lr-rounded'>
+        <div className='bg-aqua dark-blue register-height lrw-width d-flex justify-content-center align-items-center flex-column lr-rounded'>
           <p className='mx-auto fs-5 fw-bold'>Register</p>
           <label>
             full name:

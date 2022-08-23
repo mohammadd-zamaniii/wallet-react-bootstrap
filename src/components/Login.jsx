@@ -3,7 +3,7 @@ import React from 'react'
 const Login = () => {
   return (
     <div className='vh-100 d-flex justify-content-center align-items-center'>
-      <div className='bg-aqua dark-blue login-height lr-width d-flex justify-content-center align-items-center flex-column lr-rounded'>
+      <div className='bg-aqua dark-blue lrw-height lrw-width d-flex justify-content-center align-items-center flex-column lr-rounded'>
         <p className='mx-auto fs-5 fw-bold'>Login</p>
         <label>
           email:

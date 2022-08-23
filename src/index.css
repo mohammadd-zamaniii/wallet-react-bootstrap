@@ -14,7 +14,7 @@ body {
   background-color: #00fcdc;
 }
 
-.login-height{
+.lrw-height{
   height: 500px;
 }
 
@@ -22,7 +22,7 @@ body {
   border-radius: 20px;
 }
 
-.lr-width{
+.lrw-width{
   width: 400px;
 }
 
@@ -42,10 +42,22 @@ body {
   background-color: #6842ee;
 }
 
+.wallet-button{
+  width: 130px;
+}
+
 .input-height{
   height: 50px;
 }
 
 .register-height{
   height: 650px;
+} 
+
+.red-btn{
+  background-color: #ff2e2e;
+}
+
+.yellow-btn{
+  background-color: #ade903;
 }

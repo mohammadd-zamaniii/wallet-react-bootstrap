@@ -1,8 +1,12 @@
 import React from 'react'
-
+import Content from './Content'
+import Footer from './Footer'
 const Landing = () => {
   return (
-    <div>Landing</div>
+    <div>
+      <Content />
+      <Footer />
+    </div>
   )
 }
 
